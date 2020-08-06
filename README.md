@@ -83,5 +83,7 @@ Data sets we used from the paper are in folder data.
 
 CAT_train.csv and CAT_test.csv are data files from Cognitive Tutor.
 
+clone and commit
+
 ### Results
 Since I made some changes on the code, I will run the model again and record the results.
